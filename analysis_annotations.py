@@ -49,7 +49,7 @@ def run(cyto_job, parameters):
         id_job=parameters.cytomine_id_job
         id_user = parameters.cytomine_id_user
         # download_path = conn.parameters.download_path
-        download_size = parameters.download_size
+#         download_size = parameters.download_size
 
         annotations = AnnotationCollection()        
         annotations.project = id_project
