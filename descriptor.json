@@ -6,7 +6,7 @@
     "image": "mizjaggy18/s_download_analysis_annotations",
     "type": "singularity"
   },
-  "command-line": "[CYTOMINE_HOST] [CYTOMINE_PUBLIC_KEY] [CYTOMINE_PRIVATE_KEY] [CYTOMINE_ID_PROJECT] [CYTOMINE_ID_SOFTWARE] [MY_INTEGER_PARAMETER]",
+  "command-line": "[CYTOMINE_HOST] [CYTOMINE_PUBLIC_KEY] [CYTOMINE_PRIVATE_KEY] [CYTOMINE_ID_PROJECT] [CYTOMINE_ID_SOFTWARE] [CYTOMINE_ID_JOB] [CYTOMINE_ID_USER]",
   "inputs": [
     {
       "id": "cytomine_host",      
