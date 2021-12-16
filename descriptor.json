@@ -3,7 +3,7 @@
   "description": "To download annotations details from job (algorithm) analysis",
   "schema-version": "cytomine-0.1",
   "container-image": {
-    "image": "mizjaggy18/s_python_software_example",
+    "image": "mizjaggy18/s_download analysis_annotations",
     "type": "singularity"
   },
   "command-line": "[CYTOMINE_HOST] [CYTOMINE_PUBLIC_KEY] [CYTOMINE_PRIVATE_KEY] [CYTOMINE_ID_PROJECT] [CYTOMINE_ID_SOFTWARE] [MY_INTEGER_PARAMETER]",
